@@ -1,0 +1,83 @@
+{
+  "name": "m3m_vc",
+  "version": "0.0.1",
+  "description": "A virutal cards system",
+  "main": "./server/main.js",
+  "readme": "README.md",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4m-world/Test.git"
+  },
+  "keywords": [
+    "Virtual",
+    "Card",
+    "MAP",
+    "Contants",
+    "Local",
+    "Business"
+  ],
+  "author": "Mohammed M. Melhem; Ibrahim M. Melhem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/4m-world/Test/issues"
+  },
+  "homepage": "https://github.com/4m-world/Test",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.2",
+    "helmet": "^3.5.0",
+    "moment": "^2.18.1",
+    "morgan": "^1.8.1",
+    "multer": "^1.3.0",
+    "mysql": "^2.13.0",
+    "node-uuid": "^1.4.8",
+    "q": "^1.5.0",
+    "sqlite3": "^3.1.8",
+    "stream-to-promise": "^2.2.0",
+    "use-strict": "^1.0.1",
+    "winston": "^2.3.1",
+    "wkhtmltopdf": "^0.3.4"
+  },
+  "devDependencies": {
+    "bower": "^1.8.0",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "chai-datetime": "^1.4.1",
+    "chai-http": "^3.0.0",
+    "chai-spies": "^0.7.1",
+    "eslint": "^3.18.0",
+    "eslint-config-airbnb-base": "^11.1.2",
+    "eslint-plugin-import": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-if": "^2.0.2",
+    "gulp-iife": "^0.3.0",
+    "gulp-less": "^3.3.0",
+    "gulp-rev": "^7.1.2",
+    "gulp-rev-replace": "^0.4.3",
+    "gulp-template": "^4.0.0",
+    "gulp-uglify": "^2.1.2",
+    "gulp-util": "^3.0.8",
+    "karma": "^1.5.0",
+    "karma-chai": "^0.1.0",
+    "karma-chai-spies": "^0.1.4",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-mocha": "^1.3.0",
+    "karma-ng-html2js-preprocessor": "^1.0.0",
+    "mocha": "^3.2.0",
+    "mochawesome-screenshots": "^1.5.2",
+    "protractor": "^5.1.1",
+    "pump": "^1.0.2",
+    "rimraf": "^2.6.1"
+  }
+}

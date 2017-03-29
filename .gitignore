@@ -1,0 +1,18 @@
+# Node and related ecosystem
+node_modules/
+public/lib/
+node-debug.*
+
+
+# General
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.tmp
+*.bak
+*.swp
+logs/
+build/
