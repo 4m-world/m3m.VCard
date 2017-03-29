@@ -1,0 +1,16 @@
+{
+    "send_emails": true,
+    "allow_create_new_accounts": true,
+    "application_sender_email": "name@domain.com",
+    "email_transporter": {
+        "host" : "localhost",
+        "port" : 25,
+        "auth" : {
+            "user": "user",
+            "pass": "pass"
+        }
+    },
+    "crypto_secret": "!3~`AsqpPPLa22+=±§sdq qwe,apdu qwwokDF_",
+    "application_domain": "http://app.domain.com",
+    "promotion_website_domain": "http://domain.com"
+}

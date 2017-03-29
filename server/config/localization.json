@@ -1,0 +1,10 @@
+{
+    "countries": {
+        "PS" : {
+            "name" : "Palestine"
+        },
+        "UK": {
+            "name" : "United Kindom"
+        }
+    }   
+}
